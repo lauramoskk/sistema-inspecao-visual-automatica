@@ -120,4 +120,5 @@ outputs/
 ├── tabela_metricas.csv
 ├── feature_importance.csv
 └── top_features.png
+└── validacao_cruzada.csv
 ```
